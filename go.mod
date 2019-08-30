@@ -1,4 +1,4 @@
-module github.com/Southclaws/multicloser
+module github.com/Southclaws/go-multicloser
 
 go 1.12
 
